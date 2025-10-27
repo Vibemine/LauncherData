@@ -20,7 +20,7 @@
       "description": "Shader support",
       "default": false,
       "id": "iris",
-      "sha1": ""
+      "sha1": "5f0736e47d21465da9d8eb6579d8952964229376"
     }
   ]
 }

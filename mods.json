@@ -31,6 +31,11 @@
       "id": "kotlin"
     },
     {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/malilib.jar",
+      "sha1": "191e9806dc668814e50f5cef14230b575b644a6f",
+      "id": "malilib"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/cpm.jar",
       "sha1": "37ccf13fea5df14bae75e7252c4dd0cf0ac9dc7e",
       "id": "cpm"
@@ -193,14 +198,6 @@
       "id": "litematica"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/malilib.jar",
-      "sha1": "191e9806dc668814e50f5cef14230b575b644a6f",
-      "name": "MaLiLib",
-      "default": false,
-      "description": "Библиотека для корректной работы Litematica",
-      "id": "malilib"
-    },
-    {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/my-totem-doll.jar",
       "sha1": "8b41e3ee6c380babfbc0d544ae6f5b81a12b54be",
       "name": "My Totem Doll",
@@ -257,4 +254,5 @@
       "id": "etf"
     }
   ]
+
 }

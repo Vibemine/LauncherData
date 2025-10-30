@@ -2,79 +2,79 @@
   "required": [
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/fabric-api.jar",
-      "sha1": "",
+      "sha1": "ee07ecc1493280ccf1f3df59c554ae83a5e97df6",
       "id": "fabric-api"
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/emotecraft.jar",
-      "sha1": "",
+      "sha1": "569a9c01a75a5bab4ae2fa32d6bad31f35bcdc9c",
       "id": "emotecraft"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/player-animation-library.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/player-animation-library.jar",
+      "sha1": "70bc9f862b3a220f7e6eb0610c22a030550144bf",
       "id": "player-animation-library"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/creative-core.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/creative-core.jar",
+      "sha1": "abc9806536ef3660d5f9a02ab36935c2c677675a",
       "id": "creative-core"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/cloth-config.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/cloth-config.jar",
+      "sha1": "d3bd78860580da556990726af3bed1169e69933e",
       "id": "cloth-config"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/kotlin.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/kotlin.jar",
+      "sha1": "ab71e8daf9a2d529204b5c28b3801713d22f3d46",
       "id": "kotlin"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/cpm.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/cpm.jar",
+      "sha1": "37ccf13fea5df14bae75e7252c4dd0cf0ac9dc7e",
       "id": "cpm"
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/voicechat.jar",
-      "sha1": "",
+      "sha1": "8a48c310d8cb6d2acf44f5dbd9249a46690f7a0c",
       "id": "voicechat"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/sodium.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/sodium.jar",
+      "sha1": "ee58562bc918993d62ca457e46b2782fbdde3aaf",
       "id": "sodium"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/sodium-extra.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/sodium-extra.jar",
+      "sha1": "b931b5f2f2af45e593537e6aec2ca82ba7ef24d3",
       "id": "sodium-extra"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/mod-menu.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/mod-menu.jar",
+      "sha1": "b22a1a02a13642ec707d01bb8b14a21188d6d6fa",
       "id": "mod-menu"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/ferrite-core.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/ferrite-core.jar",
+      "sha1": "53d76354587cd1965b842fdce7cff965b5c52fe5",
       "id": "ferrite-core"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/lithium.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/lithium.jar",
+      "sha1": "4d7e594b4f4af78c0591eaecde298e3eb046eb05",
       "id": "lithium"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/not-enough-crashes.jar",
-      "sha1": "",
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/not-enough-crashes.jar",
+      "sha1": "bb92c7476fcbec38cbbb384e2521f839290185a3",
       "id": "not-enough-crashes"
     }
   ],
   "optional": [
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/iris-shaders.jar",
-      "sha1": "",
+      "sha1": "70fc97aa5eef2df2085a078ecb17d6bfce6756dd",
       "name": "Iris Shaders",
       "default": true,
       "description": "Поддержка шейдеров",
@@ -82,7 +82,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/appleskin.jar",
-      "sha1": "",
+      "sha1": "18fc3a8be56c802e3515ed3e2b6376eb00cd3eaf",
       "name": "AppleSkin",
       "default": false,
       "description": "Отображение сытости и насыщения",
@@ -90,7 +90,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/bendable-cuboids.jar",
-      "sha1": "",
+      "sha1": "3704e8c99358508ddd26f0b78726e7b015483f5a",
       "name": "BendableCuboids",
       "default": true,
       "description": "Библиотека для корректной работы Emotecraft",
@@ -98,7 +98,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/better-f3.jar",
-      "sha1": "",
+      "sha1": "e1333f3e807190ab2ce2c73ea4d8da76946cd701",
       "name": "BetterF3",
       "default": false,
       "description": "Улучшенное меню F3",
@@ -106,7 +106,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/bridging-mod.jar",
-      "sha1": "",
+      "sha1": "2abae0f8e0bb9163432a4632088b5fa785efdcba",
       "name": "BridgingMod",
       "default": false,
       "description": "Упрощенная постройка",
@@ -114,7 +114,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/chat-heads.jar",
-      "sha1": "",
+      "sha1": "c122c93180bd0defd74977b321fb839b7f6f77d5",
       "name": "Chat Heads",
       "default": false,
       "description": "Аватары игроков в чате",
@@ -122,7 +122,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/chunks-fade-in.jar",
-      "sha1": "",
+      "sha1": "399e42c50ddc523ae0dbd4b448fe3778ebea40bc",
       "name": "Chunks Fade In",
       "default": false,
       "description": "Плавная загрузка чанков",
@@ -130,7 +130,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/dynamic-crosshair.jar",
-      "sha1": "",
+      "sha1": "e78974f8f871ee9c32b565309a451874985135aa",
       "name": "Dynamic Crosshair",
       "default": false,
       "description": "Динамический прицел",
@@ -138,7 +138,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/dynamic-fps.jar",
-      "sha1": "",
+      "sha1": "e4f593a40029b7d5cbfbc93ce6d8c4fd399ae1ff",
       "name": "Dynamic FPS",
       "default": true,
       "description": "Оптимизация FPS когда игра неактивна",
@@ -146,7 +146,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/flashback.jar",
-      "sha1": "",
+      "sha1": "4744958d8bbdfd3deb1df27069716e5d762bf3c4",
       "name": "Flashback",
       "default": false,
       "description": "Запись игрового процесса",
@@ -154,7 +154,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/flashback-emotecraft-addon.jar",
-      "sha1": "",
+      "sha1": "e5a21140836fb4d276f81e36b7d4878ea7f1938e",
       "name": "Emotecraft Recording Addon",
       "default": false,
       "description": "Аддон emotecraft для flashback",
@@ -162,7 +162,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/flashback-cmp-addon.jar",
-      "sha1": "",
+      "sha1": "32cd148cd063ba003701c1d54fad736a7a1a281a",
       "name": "Customizable Player Models Flashback Compat",
       "default": false,
       "description": "Аддон Customizable Player Models для flashback",
@@ -170,7 +170,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/inventory-profiles-next.jar",
-      "sha1": "",
+      "sha1": "2b0612b44c14250238761da789a91e25111d75b2",
       "name": "Inventory Profiles Next",
       "default": false,
       "description": "Сортировка инвентаря",
@@ -178,7 +178,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/inventory-movement.jar",
-      "sha1": "",
+      "sha1": "d7cf4d9049ef6bd6d1fab9c375fa41223c9492a1",
       "name": "Inventory Movement",
       "default": false,
       "description": "Движение при открытом инвентаре",
@@ -186,7 +186,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/litematica.jar",
-      "sha1": "",
+      "sha1": "5758f68a79ad55eaaee1e323bc1504ab25bfce02",
       "name": "Litematica",
       "default": false,
       "description": "Схематики для постройки",
@@ -194,7 +194,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/malilib.jar",
-      "sha1": "",
+      "sha1": "191e9806dc668814e50f5cef14230b575b644a6f",
       "name": "MaLiLib",
       "default": false,
       "description": "Библиотека для корректной работы Litematica",
@@ -202,7 +202,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/my-totem-doll.jar",
-      "sha1": "",
+      "sha1": "8b41e3ee6c380babfbc0d544ae6f5b81a12b54be",
       "name": "My Totem Doll",
       "default": false,
       "description": "Тотем бессмертия в виде игрока",
@@ -210,7 +210,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/particle-core.jar",
-      "sha1": "",
+      "sha1": "f61cb096a811504079d3280e98bcf1eb40159504",
       "name": "Particle Core",
       "default": true,
       "description": "Оптимизация частиц",
@@ -218,7 +218,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/skin-layers-3d.jar",
-      "sha1": "",
+      "sha1": "294dba76f2ccfdb42abf8fa6cc0cfc30a871a0b2",
       "name": "Skin Layers 3D",
       "default": false,
       "description": "3D скины игроков",
@@ -226,7 +226,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/sound-physics-remastered.jar",
-      "sha1": "",
+      "sha1": "7f5a10b55c460a2b1faa34f74d70784642ba8f04",
       "name": "Sound Physics Remastered",
       "default": false,
       "description": "Реалистичная физика звука",
@@ -234,7 +234,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/zume.jar",
-      "sha1": "",
+      "sha1": "9c38b682fe6833f7cc79efa7c6a51e4c70aceaef",
       "name": "Zume",
       "default": true,
       "description": "Приближение камеры",
@@ -242,7 +242,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/emf.jar",
-      "sha1": "",
+      "sha1": "69589a006ac2ef02963402d49528ae7d4b95a814",
       "name": "Entity Model Features",
       "default": false,
       "description": "Улучшенные модели существ",
@@ -250,7 +250,7 @@
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/etf.jar",
-      "sha1": "",
+      "sha1": "7b7fbedb99fc633d34d2f7d92d34536055d33991",
       "name": "Entity Texture Features",
       "default": false,
       "description": "Улучшенные текстуры существ",

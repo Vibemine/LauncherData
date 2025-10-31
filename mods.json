@@ -41,6 +41,11 @@
       "id": "malilib"
     },
     {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/bendable-cuboids.jar",
+      "sha1": "3704e8c99358508ddd26f0b78726e7b015483f5a",
+      "id": "bendable-cuboids"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/cpm.jar",
       "sha1": "37ccf13fea5df14bae75e7252c4dd0cf0ac9dc7e",
       "id": "cpm"
@@ -97,14 +102,6 @@
       "default": false,
       "description": "Отображение сытости и насыщения",
       "id": "appleskin"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/bendable-cuboids.jar",
-      "sha1": "3704e8c99358508ddd26f0b78726e7b015483f5a",
-      "name": "BendableCuboids",
-      "default": true,
-      "description": "Библиотека для корректной работы Emotecraft",
-      "id": "bendable-cuboids"
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/better-f3.jar",
@@ -260,3 +257,4 @@
     }
   ]
 }
+

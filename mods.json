@@ -84,6 +84,16 @@
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/not-enough-crashes.jar",
       "sha1": "bb92c7476fcbec38cbbb384e2521f839290185a3",
       "id": "not-enough-crashes"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/lib-ipn.jar",
+      "sha1": "9080de5591548e5191c1440ac5166a7af7e17eb0",
+      "id": "lib-ipn"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/yet-another-config.jar",
+      "sha1": "932e1011a9ddef31fb4f4d7934f16a091aa5004b",
+      "id": "yet-another-config"
     }
   ],
   "optional": [
@@ -257,6 +267,3 @@
     }
   ]
 }
-
-
-

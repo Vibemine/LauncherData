@@ -3,5 +3,8 @@
   "time": 1761903176,
   "url": "",
   "sha1": "",
-  "size": 0
+  "size": 0,
+  "changelog": [
+    "First version!"
+  ]
 }

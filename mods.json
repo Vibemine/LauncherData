@@ -26,6 +26,11 @@
       "id": "cloth-config"
     },
     {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/fzzy-config.jar",
+      "sha1": "0a6d961136aa8450bd0e661aa45d51b20429d0a4",
+      "id": "fzzy-config"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/kotlin.jar",
       "sha1": "ab71e8daf9a2d529204b5c28b3801713d22f3d46",
       "id": "kotlin"

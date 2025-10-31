@@ -153,7 +153,7 @@
     },
     {
       "url": "https://media.githubusercontent.com/media/Vibemine/Mods/refs/heads/main/optional/flashback.jar",
-      "sha1": "4744958d8bbdfd3deb1df27069716e5d762bf3c4",
+      "sha1": "4a176bd270bb422f50615d53b5a4b4bcb2874cdc",
       "name": "Flashback",
       "default": false,
       "description": "Запись игрового процесса",
@@ -257,5 +257,6 @@
     }
   ]
 }
+
 
 

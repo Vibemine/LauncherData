@@ -152,7 +152,7 @@
       "id": "dynamic-fps"
     },
     {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/flashback.jar",
+      "url": "https://media.githubusercontent.com/media/Vibemine/Mods/refs/heads/main/optional/flashback.jar",
       "sha1": "4744958d8bbdfd3deb1df27069716e5d762bf3c4",
       "name": "Flashback",
       "default": false,
@@ -257,4 +257,5 @@
     }
   ]
 }
+
 

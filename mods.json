@@ -242,6 +242,14 @@
       "id": "sound-physics-remastered"
     },
     {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/xaeros-worldmap.jar",
+      "sha1": "073dd437a4418cf1464824dd723441a3f589d9b5",
+      "name": "Xaero's World Map",
+      "default": false,
+      "description": "Карта мира",
+      "id": "xaeros-worldmap"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/zume.jar",
       "sha1": "9c38b682fe6833f7cc79efa7c6a51e4c70aceaef",
       "name": "Zume",

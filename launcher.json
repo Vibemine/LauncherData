@@ -1,10 +1,8 @@
 {
   "version": "1.0.0",
   "time": 1761903176,
-  "url": "",
-  "sha1": "",
+  "url": "https://media.githubusercontent.com/media/Vibemine/Launcher/refs/heads/main/VMLauncher.exe",
+  "sha1": "ebee838486c3c5b082b91c1c30556841bbc0178b",
   "size": 0,
-  "changelog": [
-    "First version!"
-  ]
+  "changelog": []
 }

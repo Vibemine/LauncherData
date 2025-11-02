@@ -94,6 +94,16 @@
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/yet-another-config.jar",
       "sha1": "932e1011a9ddef31fb4f4d7934f16a091aa5004b",
       "id": "yet-another-config"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/armor-poser.jar",
+      "sha1": "d82cbee10fe58034ba05a29a3be6e2151197f701",
+      "id": "armor-poser"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/particle-core.jar",
+      "sha1": "f61cb096a811504079d3280e98bcf1eb40159504",
+      "id": "particle-core"
     }
   ],
   "optional": [
@@ -216,14 +226,6 @@
       "default": false,
       "description": "Тотем бессмертия в виде игрока",
       "id": "my-totem-doll"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/particle-core.jar",
-      "sha1": "f61cb096a811504079d3280e98bcf1eb40159504",
-      "name": "Particle Core",
-      "default": true,
-      "description": "Оптимизация частиц",
-      "id": "particle-core"
     },
     {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/optional/skin-layers-3d.jar",

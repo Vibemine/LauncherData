@@ -56,6 +56,11 @@
       "id": "voicechat"
     },
     {
+      "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/voicemessages.jar",
+      "sha1": "a372ecfc2d63d8e01dc483701cc29bb64328bd34",
+      "id": "voicemessages"
+    },
+    {
       "url": "https://raw.githubusercontent.com/Vibemine/Mods/refs/heads/main/required/sodium.jar",
       "sha1": "ee58562bc918993d62ca457e46b2782fbdde3aaf",
       "id": "sodium"
@@ -277,3 +282,4 @@
     }
   ]
 }
+
